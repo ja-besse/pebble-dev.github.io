@@ -67,6 +67,7 @@ Note: you can skip this part if you're already a Pebble user. Instead, you shoul
 * If you see a clock face, press middle right button, go to *Settings*, then *System*, and choose *Factory Reset*. This might take a few minutes.
 * Get your phone and download the [Pebble app from APKMirror](https://www.apkmirror.com/apk/pebble-technology-corp/pebble/pebble-4-4-2-1405-62d45d7d7-endframe-release/pebble-4-4-2-1405-62d45d7d7-endframe-android-apk-download/download/). Open the APK and enable installing from unknown sources if it prompts you to. Tap install in the dialogue box. Then, open the app.
 * You'll be greeted by a *Pebble Account* page. Simply tap *Skip login* twice to continue.
+    * If you don't see *Skip login*, force close the pebble app, put your phone into Airplane mode, and re-open the pebble app.  You should now see the *Skip login* option.  Tap *Skip login* twice to continue, then take your phone out of Airplane mode.
 * Choose the type of Pebble you have.
 * The app starts looking for nearby Pebbles. It should shortly see your Pebble, as *Pebble `xxxx`*. This same string can be seen on the Pebble, so you know the phone sees the right watch. Tap it.
 * If the Pebble doesn't appear and you're on Android 10, go to the bluetooth settings page of the phone, pair the watch, and try again. (If that doesn't help, unpair it there again.)
